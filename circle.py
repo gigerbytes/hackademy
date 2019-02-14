@@ -7,3 +7,8 @@ def circle_area(radius):
 print(circle_area(3))
 
 
+print(circle_area(3))
+
+print(circle_area(3))
+
+print(circle_area(3))
